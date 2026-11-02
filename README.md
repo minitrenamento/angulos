@@ -16,4 +16,5 @@ Abrir `Angulos.html` directamente no browser, ou servir a pasta:
 
 ## Publicação
 
-Alojado no Vercel. O `vercel.json` serve `Angulos.html` na raiz do domínio.
+Alojado no Vercel em <https://angulos-moveis.vercel.app>. O `vercel.json` serve
+`Angulos.html` na raiz do domínio, e cada push para `main` publica automaticamente.
