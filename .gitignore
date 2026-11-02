@@ -1,3 +1,6 @@
 Angulos.backup.html
 .vercel
 node_modules
+
+.vercel
+.env*
